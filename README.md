@@ -19,12 +19,23 @@ git clone https://github.com/Kramar1337/Yandex-Spotify-Keybind.git
 3. Нажмите "Загрузить распакованное" и выберите папку `/extension`
 
 ### Фильтры AdBlock
-Добавьте в свой блокировщик содержимое файла `adblock_filters.txt`
+Добавьте в свой блокировщик содержимое файла `Adblock filters.txt`
 
 ### AutoHotkey скрипт
-1. Установите [AutoHotkey](https://www.autohotkey.com/)
+1. Установите [Autohotkey.com](https://www.autohotkey.com/download/ahk-install.exe)(прямая ссылка)
 2. Запустите `Play.ahk`
+3. Настройки в самом файле
 
+```
+;Режим по умолчанию 1 - Media_Play, 2 - GUI
+PlayMode = 1
+
+;Play - Pause
+key_PlayPause = XButton2
+
+;Одиночный клик - Next, двойной клик - Prev
+key_Next = XButton1
+```
 
 ## Disclaimer 
 This project is intended solely for educational purposes. 
