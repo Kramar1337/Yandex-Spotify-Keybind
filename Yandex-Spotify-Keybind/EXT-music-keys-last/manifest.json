@@ -1,0 +1,53 @@
+{
+  "manifest_version": 3,
+  "name": "Яндекс.Музыка + Spotify - Бинды",
+  "version": "1.3.3.7",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "description": "https://github.com/Kramar1337",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "host_permissions": [
+    "*://music.yandex.ru/*",
+    "*://open.spotify.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://music.yandex.ru/*"],
+      "js": ["content-yandex.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    },
+    {
+      "matches": ["*://open.spotify.com/*"],
+      "js": ["content-spotify.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "play-pause": {
+      "suggested_key": {
+        "default": "MediaPlayPause"
+      },
+      "description": "Play/Pause"
+    },
+    "next": {
+      "suggested_key": {
+        "default": "MediaNextTrack"
+      },
+      "description": "Next Track"
+    },
+    "prev": {
+      "suggested_key": {
+        "default": "MediaPrevTrack"
+      },
+      "description": "Previous Track"
+    }
+  }
+}

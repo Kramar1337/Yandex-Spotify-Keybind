@@ -1,0 +1,75 @@
+! 17.02.2020 https://music.yandex.ru
+music.yandex.ru##.yaAdSdkVpaidContainer > iframe
+music.yandex.ru##.yaAdSdkVpaidContainer
+music.yandex.ru##.yr9TIfo3AyOnA08E0__video
+music.yandex.ru##.typo-default.yr9TIfo3AyOnA08E0__title
+music.yandex.ru##.typo-link.yr9TIfo3AyOnA08E0__description
+music.yandex.ru##.d-no-ads__button.d-button_size_L.d-button_rounded.local-icon-theme-white.deco-button-action.deco-button.d-button
+music.yandex.ru##.yr9TIfo3AyOnA08E0__captions
+music.yandex.ru##.deco_shadow.deco-pane-arrow_down.deco-pane-popup.yr9TIfo3AyOnA08E0__block
+music.yandex.ru##.yr9TIfo3AyOnA08E0_media.deco-pane.yr9TIfo3AyOnA08E0_expanded.yr9TIfo3AyOnA08E0
+
+! 18.02.2020 https://music.yandex.ru
+||strm.yandex.ru/get/pEXyfVNhbHRlZF9fhKsSrbeD-9WlhpD7QdeDUC1bMTfsrO40TxKCl0IQZ9a2pIQoVtz_MQ5ebExB3cvqYaBB09VT2lVq5-3nSqmbphDi_8VtTmNi357U2MHbD_HtRQmV-9tZaTnyte9aReK4s2HfUZNda7HFX1J6KFJl97d4yj2ulJbC99efcoAZ53ZAY_LVM9tIZfsjQCCgQXZDHgD_HaEP-SD4sULhKArQprzjbLwA8elke0AE6X5q_JDbPicxUcBClIZ8SCAAEP5g86Kf3AMU8Ovj_dwSY3UVDQS5FbmNAeP6nKhxn5IRmhsDQH8wJ80GExdUzbIIpyoBcLdDg4vZg0NUxUv6slBArJxi0a44FkgIwNz2xIYhRiPZ16-zX-FfK36QYo4B2Kkx7f2d3a7ib0vEXKpMkyJAhx9RyAq3sJdPaI0lJCMkr9yylxfVlqlCtKfX9CxblpaHOAf_yDekV6BIEkDTqQzu5oN6sTSyaxDYD_0onzb_XlcmbnWJ8-aiLauS0kuVyUWx8YHlh2qjRz4zrLVWRYPtLHSyScUy-6Ybz_1d6un4B_89rLhn4mWL6ZodmuRbEFutHYTRfN5BUgn5kUQw3JrqAIK4T7DWR3O8FAOKeU6T5zs-21OXkOFwl8poEFzXeF6cSh2Rtf2qjdTS__ZqTVK6nXvtD1X7DovFVSSZqGHiRAsRLG_RNmStGBWqhf90J5mIylRUKCzLyJ4lQHSH3QrqiJF3MW4e1-PJYBxyNd_UCP3LOgBzmb50Jfg7w4iXu4SS4ZYwBRCIU2HNKIxaSl6XqSJ7i_Lc1J2dBSX1rrWC1Ge6DTr7p1aiBhONbBoEIi5SZJ5ESshDDHIfXmfmGzkiTXFt0CyTLrfc99Be3jAY1RhiYnSorCE4PDM3tTqZsdfo5jrcaayOr0AFy0Oc1DoS4hyUEr1nKLwtzRZc8RhwkYxn5wxLrC7jQZWQWovJo7TSil_GXbNNdcTXvdox-ZJTE$image
+music.yandex.ru##.typo-default.ziETHPs_s13fbM8WP__title
+music.yandex.ru##.typo-link.ziETHPs_s13fbM8WP__description
+music.yandex.ru##.ziETHPs_s13fbM8WP__captions
+music.yandex.ru##.deco_shadow.deco-pane-arrow_down.deco-pane-popup.ziETHPs_s13fbM8WP__block
+||music.yandex.ru/i/c_0soMkcEsovKIgjTey4S6-yUsc.png$image
+music.yandex.ru##.crackdown-popup__content.crackdown-popup__slide
+||strm.yandex.ru/get/X8_AqFNhbHRlZF9fV9MoS2FYSAAyAkPFyIaw6-Dvd5uH1OyP_nFLtqorwYlYcidFGpxvo_fpQcNa9NrLQgBaZTXfcRNzyum0yNH89Xg1byW5HA7kLAx0Dw5y2zJ4THlrTb6iMAqqC55wsBZqYtnQ6mlxjfFHP1FDaRzA1Y5eeD3o5T2kr0VUzPU8sXZbLtA87xIgky8IJKsgKqEgxJBBWpmcyWk7K4U_jo-k2pAh6BCUmwyOK4wpySdEBqFkMWGq7s_pDOemr-o6H595CXXCM06e_qJ6h9fMIyCzNqS0Wwdsy6ykrt5lYsW0Fp9pz4ZEa7iqApCGdEpuW_GF1WDzAUokbNF0BeFA9bcvBYf1xXGtkEcl06Jnr_sihZsjb1TMPSbkL-YTaPlslqJS0nAE2fXI2j_FGp676sHGNBAfilGLo8_H7MFp6cR0BoCuE7QPuzbvq1A4HaWzSCYC4ftDqvC5vC9jl_xCvDH9Z1PvgpdBpd387xQ5sluKafVnCmwnL-DuDj_uulKJTs1Z5HgfdYgaQxLYXLNz6CiU45Q-wPSm7Hx7PFb4EqQYxrWrEtnU6oGW5Lboln9q1F1MdT52JEHqPdlWDOhWYm3YZmTAeOz7Na6OV3Pu3sugNqhJb8y8QMl4Z9Pfp45PfUE0plTj82r3Yhgbwo9fRzDVdMltGhE47QRROQ6ZjBsVmtsc8lV-pPxKJ4_eUIu43JLcVtUwD1E5CAkydsbKG5cAwI9ZjLQjZ-NdgxvJNRAqNtMZa6ZClYodwHfd8Fuzdfzmb1v_YwiIoMGWzy4UTEMYlVFNQDk1YVKPx38xgwJRO_PlTxqPrDfiZ9hnkfPkolo-ElqmrJsaV8POrLrmYsGQbgEiL6EAo0lmNbivZSTWpNqY6ZNhIT4Gm49e4b0Dg8Qt-yhenVGUTWr0QHhV9ddhw785u6kv9PtzI6gKqaM46wfITNbp-EM_khYiu4MDgxUKTIm9KoVv5jwU9I1dtxxTE$image
+music.yandex.ru##.typo-default.rcLzaQBvBvmB13VNl__title
+music.yandex.ru##.typo-link.rcLzaQBvBvmB13VNl__description
+music.yandex.ru##.rcLzaQBvBvmB13VNl__captions
+music.yandex.ru##.deco_shadow.deco-pane-arrow_down.deco-pane-popup.rcLzaQBvBvmB13VNl__block
+music.yandex.ru##.progress__text.progress__bar
+
+
+! Яндекс.Музыка — реклама
+music.yandex.ru##div[class*="sidebar-advert"]
+music.yandex.ru##div[class*="advert"]
+music.yandex.ru##div[class*="promo"]
+music.yandex.ru##div[data-test="advert"]
+music.yandex.ru##audio[data-test="advert-audio"]
+music.yandex.ru##div[class*="pay-promo"]
+music.yandex.ru##div[class*="SubscriptionBanner"]
+
+
+
+
+
+
+music.yandex.ru##.Bp1d3U6W8Nrbqi3MRQS_:nth-of-type(3)
+music.yandex.ru##.CarouselBlock_root__aeOla:nth-of-type(4)
+music.yandex.ru##.CarouselBlock_root__aeOla:nth-of-type(6)
+music.yandex.ru##.CarouselBlock_root__aeOla:nth-of-type(8)
+music.yandex.ru##.footer, .page-line_chart, .page-line_clips, .page-line_new-playlists, .page-line_new-releases, .page-line_podcasts, .head-kids__buttons, .auto-playlists__item_recentTracks, .page-line_mixes, .page-main__title-chart.d-tabs__link.typo-nav, .playlist-notification__point_ready, .sidebar-rup__special-station-section, .sidebar__under, .d-explicit-mark, rup__content_disable
+music.yandex.ru##[class*="BarBelow_root_"]
+music.yandex.ru##[class*="CollectionAlbumsEmpty_root_"]
+music.yandex.ru##[class*="CollectionPage_description_"]
+music.yandex.ru##[class*="CompositeHeader_"]
+music.yandex.ru##[class*="Concerts_root_"]
+music.yandex.ru##[class*="Donations_root_"]
+music.yandex.ru##[class*="Footer_root_"]
+music.yandex.ru##[class*="InStyle_root_"]
+music.yandex.ru##[class*="MainPage_footer_"]
+music.yandex.ru##[class*="Meta_explicitMark_"]
+music.yandex.ru##[class*="NavbarDesktopAnimatedBar_root_"]
+music.yandex.ru##[class*="Neuromusic_root_"]
+music.yandex.ru##[class*="NewReleases_root_"]
+music.yandex.ru##[class*="Vibes_root_"]
+music.yandex.ru##a.typo-nav_contrast.typo-nav.nav-kids__link.nav-kids__tab:nth-of-type(2), a.typo-nav_contrast.typo-nav.nav-kids__link.nav-kids__tab:nth-of-type(3), button.sidebar-rup-button_type-diversity.sidebar-rup-button:nth-of-type(3), div.typo-caps.d-tabs__tab:nth-of-type(3) > .d-tabs__link.typo-nav, div.typo-caps.d-tabs__tab:nth-of-type(5) > .d-tabs__link.typo-nav, div.typo-caps.d-tabs__tab:nth-of-type(6) > .d-tabs__link.typo-nav
+
+
+
+
+
+
+
+
+
+
+
+
+
+
