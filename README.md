@@ -11,9 +11,8 @@
 ## ⚙️ Установка
 
 ### Браузерное расширение
-```bash
-git clone https://github.com/Kramar1337/Yandex-Spotify-Keybind.git
-```
+
+Скачать репозиторий (Code > [Download Zip👌](https://github.com/Kramar1337/Yandex-Spotify-Keybind/archive/main.zip))
 1. Откройте `chrome://extensions/`
 2. Включите "Режим разработчика"
 3. Нажмите "Загрузить распакованное" и выберите папку `/extension`
